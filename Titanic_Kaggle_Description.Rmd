@@ -1,0 +1,14 @@
+# **TITANIC: Kaggle ML Competition**
+## Author: Paul Vinod
+## Language: R
+
+## **Introduction**
+This is ML modelling documentation. Which provides a step-by-step analysis. 
+The problem statement is to check the survival of the passengers in the Titanic ship.
+Disclaimer: The data is part of Kaggle Titanic Competition.
+
+## **Data Storage to matrix**
+This is too read the data from *train.csv* and *test.csv* and storing them into matrix. 
+```{r}
+
+```
